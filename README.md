@@ -1,0 +1,6 @@
+# color![issue done](https://user-images.githubusercontent.com/100883216/205990432-7c7819d5-3af1-451e-84a3-9a31e060232d.PNG)
+![kanban 1](https://user-images.githubusercontent.com/100883216/205990435-a533a363-a6a7-45bb-b9bb-4eb342b3378b.PNG)
+![Kanban in progress](https://user-images.githubusercontent.com/100883216/205990437-e63d454f-50aa-40c2-a02c-710b784f93a0.PNG)
+![create branch](https://user-images.githubusercontent.com/100883216/205990438-1c369fba-6e12-41b6-af4e-5e035721d748.PNG)
+![push to branch](https://user-images.githubusercontent.com/100883216/205990441-eb0952a3-4f7c-41b0-b885-3cce6030bfdb.PNG)
+![merge to master](https://user-images.githubusercontent.com/100883216/205990442-1662b7a4-9837-4c1c-89b6-10114c04cf03.PNG)
